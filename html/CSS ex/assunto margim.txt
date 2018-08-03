@@ -1,0 +1,19 @@
+Margin como utilizar:
+
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  margtin-right: 100px;
+ 
+          TOP   RIGHT  BOTTOM  LEFT
+  margin: 0px   100px  0px     100px;
+
+          TOP/BOTTOM  LEFT/RIGHT
+ margin:  0px         100px;
+
+
+  margin:100px 100px 100px 100px;
+  margin:100px 100px;
+  margin:100px;
+
+/*Quando for 0 n precisa usar o px*/

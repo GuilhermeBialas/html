@@ -1,0 +1,37 @@
+.botao:hover{
+			background-color: black;
+			color: #EACE21;
+			text-transform: uppercase;
+		}
+		.botao{
+			display: block;
+			background-color: #EACE21;
+			color: black;
+			font-weight: bold;
+	        width: 150px;
+	        height: 50px;
+	        text-decoration: none;
+	        text-align: center;
+
+	        border-radius: 20px;
+
+	        border: 1px solid black;
+	        border-color: deeppink;
+	        border-width: 1px;
+	        border-style: solid;
+	        border-top-color: blue;
+	        border-bottom-color:blue;
+	        border-bottom-style: dashed;
+	        /* border: 1px solid black;*/
+		}
+		.imagem{
+			background-image:url("francisco.jpg");
+			
+			height: 500px;
+			background-repeat:no-repeat;
+			background-position: top right;
+		}
+
+		.campo-texto{
+			background-color: #949494;
+		}
